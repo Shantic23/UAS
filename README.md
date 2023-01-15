@@ -118,7 +118,7 @@ while True:
  ![image](Screenshot/output%20t.png)
 
  # Ubah Data
- ![image](screenshot/output%20u.png)
+ ![image](Screenshot/output%20u.png)
 
  # Lihat Data Setelah Di Ubah
  ![image](Screenshot/Screenshot%20(122).png)
