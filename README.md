@@ -7,7 +7,7 @@ KELAS : TI.22.C.1
 
 # Struktur Package dan Modul
 
-! [image1](Screenshot/ss1.png)
+![image1](Screenshot/ss1.png)
 
 # Penjelasan 
 
@@ -109,25 +109,27 @@ while True:
 ## Output 
 
 # Tampilan Awal
- ! [image](Screenshot/Tampilan%20awal.png)
+ ![image](Screenshot/Tampilan%20awal.png)
 
  # Tambah Data 
- ! [image](Screenshot/tambah.png)
+ ![image](Screenshot/tambah.png)
 
  # Lihat Data Setelah Di Ubah
- ! [image](Screenshot/output%20t.png)
+ ![image](Screenshot/output%20t.png)
 
  # Ubah Data
- ! [iamge](screenshot/output%20u.png)
+ ![image](screenshot/output%20u.png)
 
  # Lihat Data Setelah Di Ubah
- ! [image](Screenshot/Screenshot%20(122).png)
+ ![image](Screenshot/Screenshot%20(122).png)
 
  # Cari Data
- ! [image](Screenshot/c.png)
+ ![image](Screenshot/c.png)
 
  # Hapus Data 
- ! [image](Screenshot/output%20h.png)
+ ![image](Screenshot/output%20h.png)
 
 
- 
+ ## TUTORIAL PDF
+
+[TUTORPDF](assets/PROJECT UJIAN AKHIR Shanti)
