@@ -132,4 +132,4 @@ while True:
 
  ## TUTORIAL PDF
 
-[TUTORPDF](assets/PROJECT UJIAN AKHIR Shanti)
+[TUTORPDF](assets/PDF)
